@@ -1,0 +1,13 @@
+/*Admin page*/
+.attributeTable{
+	width: 100%;
+}
+.attributeTable td{
+    padding:5px;
+}
+.navbar-custom-menu>.navbar-nav>li.messages-menu, .navbar-custom-menu>.navbar-nav>li.notifications-menu, .navbar-custom-menu>.navbar-nav>li.tasks-menu{
+	display: none;
+}
+.navbar-custom-menu>.navbar-nav>li.user-menu+li{
+	display: none;
+}
